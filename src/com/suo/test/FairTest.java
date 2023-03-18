@@ -23,5 +23,6 @@ public class FairTest {
 	public synchronized void getNumber(){
 		//synchronized 是一个非公平锁
                 //synchronized 是一个非公平锁1111
+		//synchronized 是一个非公平锁22222
 	}
 }
